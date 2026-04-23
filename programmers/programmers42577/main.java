@@ -8,7 +8,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Queue;
 
-public class main {
+public class Main {
     public static void main(String[] args){
         int[] progresses = {93, 30, 55};
         int[] speeds={1, 30, 5};
@@ -20,9 +20,9 @@ public class main {
             pQue.add(progresses[i]);
             sQue.add(speeds[i]);
         }
-        while (!pQue.isEmpty()){
-            day = day+(day*sQue.getFirst() + (int));Math.ceil((double) (100-pQue.getFirst()) /sQue.get)
-        }
+//        while (!pQue.isEmpty()){
+//            day = day+(day*sQue.getFirst() + (int));Math.ceil((double) (100-pQue.getFirst()) /sQue.get);
+//        }
 
 
 

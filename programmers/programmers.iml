@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/programmers12909" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/programmers1844" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/programmers1845" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/programmers389478" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/programmers42576" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/programmers42577" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/programmers42583" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/programmers42586" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/programmers42587" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/programmers42746" isTestSource="false" packagePrefix="PACKAGE_NAME" />
+      <sourceFolder url="file://$MODULE_DIR$/programmers42747" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/programmers42840" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/programmers42842" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/programmers42860" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/programmers42862" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/programmers42884" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/programmers42885" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/programmers42895" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/programmers43105" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/programmers43162" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/programmers43165" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/programmers86491" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/programmers86971" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/programmers87946" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
